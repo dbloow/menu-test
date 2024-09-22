@@ -25,7 +25,7 @@ using zygisk::AppSpecializeArgs;
 using zygisk::ServerSpecializeArgs;
 
 // Target package here
-#define targetPackageName OBFUSCATE("com.mycompany.myapp")
+#define targetPackageName OBFUSCATE("com.asobimo.toramonline")
 
 //Target lib here
 #define targetLibName OBFUSCATE("libil2cpp.so")
